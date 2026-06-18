@@ -1,0 +1,22 @@
+[
+    {"id_produto":501,"nome":"Notebook","categoria":"Eletronicos","preco":3500},
+    {"id_produto":502,"nome":"Smartphone","categoria":"Eletronicos","preco":2200},
+    {"id_produto":503,"nome":"Cadeira Gamer","categoria":"Moveis","preco":900},
+    {"id_produto":504,"nome":"TV","categoria":"Eletronicos","preco":2800},
+    {"id_produto":505,"nome":"Mouse","categoria":"Acessorios","preco":150},
+    {"id_produto":506,"nome":"Teclado","categoria":"Acessorios","preco":450},
+    {"id_produto":507,"nome":"Monitor","categoria":"Eletronicos","preco":1200},
+    {"id_produto":508,"nome":"Headset","categoria":"Acessorios","preco":300},
+    {"id_produto":509,"nome":"Mesa","categoria":"Moveis","preco":700},
+    {"id_produto":510,"nome":"Impressora","categoria":"Eletronicos","preco":800},
+    {"id_produto":511,"nome":"Webcam","categoria":"Acessorios","preco":200},
+    {"id_produto":512,"nome":"SSD","categoria":"Eletronicos","preco":600},
+    {"id_produto":513,"nome":"HD Externo","categoria":"Eletronicos","preco":500},
+    {"id_produto":514,"nome":"Roteador","categoria":"Eletronicos","preco":350},
+    {"id_produto":515,"nome":"Tablet","categoria":"Eletronicos","preco":1800},
+    {"id_produto":516,"nome":"Cadeira Escritorio","categoria":"Moveis","preco":650},
+    {"id_produto":517,"nome":"Suporte Monitor","categoria":"Acessorios","preco":180},
+    {"id_produto":518,"nome":"Pen Drive","categoria":"Acessorios","preco":80},
+    {"id_produto":519,"nome":"Smartwatch","categoria":"Eletronicos","preco":900},
+    {"id_produto":520,"nome":"Caixa de Som","categoria":"Acessorios","preco":250}
+    ]

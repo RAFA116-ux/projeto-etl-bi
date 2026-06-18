@@ -1,0 +1,401 @@
+id_pedido,id_cliente,id_produto,quantidade,data_pedido,valor_unitario,valor_total,nome_cliente,idade,regiao,nome_produto,categoria,preco
+1,101,508,4,2025-12-22,1200,4800,Ana Silva,28,Sudeste,Headset,Acessorios,300
+2,101,520,4,2025-03-31,3500,14000,Ana Silva,28,Sudeste,Caixa de Som,Acessorios,250
+3,101,517,3,2025-07-30,500,1500,Ana Silva,28,Sudeste,Suporte Monitor,Acessorios,180
+4,101,503,2,2025-11-29,300,600,Ana Silva,28,Sudeste,Cadeira Gamer,Moveis,900
+5,101,518,3,2025-05-28,3500,10500,Ana Silva,28,Sudeste,Pen Drive,Acessorios,80
+6,101,519,5,2025-02-24,2200,11000,Ana Silva,28,Sudeste,Smartwatch,Eletronicos,900
+7,101,512,2,2025-10-14,2200,4400,Ana Silva,28,Sudeste,SSD,Eletronicos,600
+8,101,503,3,2025-06-20,1200,3600,Ana Silva,28,Sudeste,Cadeira Gamer,Moveis,900
+9,101,513,5,2025-02-16,2200,11000,Ana Silva,28,Sudeste,HD Externo,Eletronicos,500
+10,101,517,4,2025-10-26,500,2000,Ana Silva,28,Sudeste,Suporte Monitor,Acessorios,180
+11,101,511,3,2025-01-31,800,2400,Ana Silva,28,Sudeste,Webcam,Acessorios,200
+12,101,510,2,2025-10-21,500,1000,Ana Silva,28,Sudeste,Impressora,Eletronicos,800
+13,101,518,2,2025-09-15,1200,2400,Ana Silva,28,Sudeste,Pen Drive,Acessorios,80
+14,101,508,1,2025-03-31,1200,1200,Ana Silva,28,Sudeste,Headset,Acessorios,300
+15,101,518,3,2025-06-12,2200,6600,Ana Silva,28,Sudeste,Pen Drive,Acessorios,80
+16,101,519,2,2025-08-04,300,600,Ana Silva,28,Sudeste,Smartwatch,Eletronicos,900
+17,101,512,1,2025-12-26,3500,3500,Ana Silva,28,Sudeste,SSD,Eletronicos,600
+18,101,511,1,2025-03-31,1200,1200,Ana Silva,28,Sudeste,Webcam,Acessorios,200
+19,101,515,5,2025-03-27,500,2500,Ana Silva,28,Sudeste,Tablet,Eletronicos,1800
+20,101,505,4,2025-08-14,300,1200,Ana Silva,28,Sudeste,Mouse,Acessorios,150
+21,101,505,5,2025-09-28,150,750,Ana Silva,28,Sudeste,Mouse,Acessorios,150
+22,101,502,2,2025-05-23,150,300,Ana Silva,28,Sudeste,Smartphone,Eletronicos,2200
+23,101,509,5,2025-09-14,2200,11000,Ana Silva,28,Sudeste,Mesa,Moveis,700
+24,101,520,1,2025-12-23,500,500,Ana Silva,28,Sudeste,Caixa de Som,Acessorios,250
+25,101,520,1,2025-05-24,300,300,Ana Silva,28,Sudeste,Caixa de Som,Acessorios,250
+26,101,502,4,2025-08-01,150,600,Ana Silva,28,Sudeste,Smartphone,Eletronicos,2200
+27,101,512,1,2025-07-25,150,150,Ana Silva,28,Sudeste,SSD,Eletronicos,600
+28,101,503,3,2025-10-18,1200,3600,Ana Silva,28,Sudeste,Cadeira Gamer,Moveis,900
+29,101,516,2,2025-05-30,1200,2400,Ana Silva,28,Sudeste,Cadeira Escritorio,Moveis,650
+30,101,517,3,2025-05-20,500,1500,Ana Silva,28,Sudeste,Suporte Monitor,Acessorios,180
+31,101,510,5,2025-05-08,3500,17500,Ana Silva,28,Sudeste,Impressora,Eletronicos,800
+32,101,516,2,2025-02-21,2200,4400,Ana Silva,28,Sudeste,Cadeira Escritorio,Moveis,650
+33,101,519,1,2025-07-13,500,500,Ana Silva,28,Sudeste,Smartwatch,Eletronicos,900
+34,101,510,3,2025-10-02,3500,10500,Ana Silva,28,Sudeste,Impressora,Eletronicos,800
+35,101,503,2,2025-02-06,300,600,Ana Silva,28,Sudeste,Cadeira Gamer,Moveis,900
+36,101,505,4,2025-11-27,3500,14000,Ana Silva,28,Sudeste,Mouse,Acessorios,150
+37,101,509,5,2025-04-18,150,750,Ana Silva,28,Sudeste,Mesa,Moveis,700
+38,101,517,2,2025-05-20,3500,7000,Ana Silva,28,Sudeste,Suporte Monitor,Acessorios,180
+39,101,501,1,2025-02-06,1200,1200,Ana Silva,28,Sudeste,Notebook,Eletronicos,3500
+40,101,518,1,2025-03-30,300,300,Ana Silva,28,Sudeste,Pen Drive,Acessorios,80
+41,102,507,1,2025-04-11,300,300,Bruno Costa,35,Sul,Monitor,Eletronicos,1200
+42,102,509,5,2025-01-15,300,1500,Bruno Costa,35,Sul,Mesa,Moveis,700
+43,102,507,3,2025-02-22,3500,10500,Bruno Costa,35,Sul,Monitor,Eletronicos,1200
+44,102,520,2,2025-05-23,1200,2400,Bruno Costa,35,Sul,Caixa de Som,Acessorios,250
+45,102,516,2,2025-05-01,1200,2400,Bruno Costa,35,Sul,Cadeira Escritorio,Moveis,650
+46,103,518,5,2025-07-04,300,1500,Carla Souza,42,Nordeste,Pen Drive,Acessorios,80
+47,103,504,4,2025-12-03,500,2000,Carla Souza,42,Nordeste,TV,Eletronicos,2800
+48,103,508,4,2025-07-13,3500,14000,Carla Souza,42,Nordeste,Headset,Acessorios,300
+49,103,505,2,2025-05-06,800,1600,Carla Souza,42,Nordeste,Mouse,Acessorios,150
+50,103,501,1,2025-12-31,150,150,Carla Souza,42,Nordeste,Notebook,Eletronicos,3500
+51,104,507,3,2025-08-01,150,450,Daniel Lima,30,Centro-Oeste,Monitor,Eletronicos,1200
+52,104,516,4,2025-03-16,1200,4800,Daniel Lima,30,Centro-Oeste,Cadeira Escritorio,Moveis,650
+53,104,515,2,2025-05-30,800,1600,Daniel Lima,30,Centro-Oeste,Tablet,Eletronicos,1800
+54,104,516,2,2025-09-30,300,600,Daniel Lima,30,Centro-Oeste,Cadeira Escritorio,Moveis,650
+55,104,511,3,2025-01-25,800,2400,Daniel Lima,30,Centro-Oeste,Webcam,Acessorios,200
+56,105,505,5,2025-09-17,300,1500,Eduardo Alves,27,Sudeste,Mouse,Acessorios,150
+57,105,516,1,2025-09-12,1200,1200,Eduardo Alves,27,Sudeste,Cadeira Escritorio,Moveis,650
+58,105,510,4,2025-10-04,1200,4800,Eduardo Alves,27,Sudeste,Impressora,Eletronicos,800
+59,105,501,1,2025-12-11,150,150,Eduardo Alves,27,Sudeste,Notebook,Eletronicos,3500
+60,105,509,4,2025-10-13,150,600,Eduardo Alves,27,Sudeste,Mesa,Moveis,700
+61,106,509,2,2025-07-20,150,300,Fernanda Rocha,31,Sul,Mesa,Moveis,700
+62,106,505,5,2025-02-03,300,1500,Fernanda Rocha,31,Sul,Mouse,Acessorios,150
+63,106,506,2,2025-04-10,2200,4400,Fernanda Rocha,31,Sul,Teclado,Acessorios,450
+64,106,505,5,2025-04-17,3500,17500,Fernanda Rocha,31,Sul,Mouse,Acessorios,150
+65,106,505,4,2025-12-18,150,600,Fernanda Rocha,31,Sul,Mouse,Acessorios,150
+66,107,517,4,2025-05-24,2200,8800,Gustavo Martins,45,Nordeste,Suporte Monitor,Acessorios,180
+67,107,507,4,2025-08-16,150,600,Gustavo Martins,45,Nordeste,Monitor,Eletronicos,1200
+68,107,518,2,2025-08-07,3500,7000,Gustavo Martins,45,Nordeste,Pen Drive,Acessorios,80
+69,107,503,4,2025-01-29,500,2000,Gustavo Martins,45,Nordeste,Cadeira Gamer,Moveis,900
+70,107,516,1,2025-01-03,800,800,Gustavo Martins,45,Nordeste,Cadeira Escritorio,Moveis,650
+71,108,516,1,2025-07-10,2200,2200,Helena Ribeiro,29,Sudeste,Cadeira Escritorio,Moveis,650
+72,108,517,3,2025-12-21,800,2400,Helena Ribeiro,29,Sudeste,Suporte Monitor,Acessorios,180
+73,108,515,2,2025-07-27,300,600,Helena Ribeiro,29,Sudeste,Tablet,Eletronicos,1800
+74,108,505,2,2025-07-23,2200,4400,Helena Ribeiro,29,Sudeste,Mouse,Acessorios,150
+75,108,505,4,2025-02-23,3500,14000,Helena Ribeiro,29,Sudeste,Mouse,Acessorios,150
+76,109,516,2,2025-03-01,1200,2400,Igor Fernandes,33,Centro-Oeste,Cadeira Escritorio,Moveis,650
+77,109,502,1,2025-06-07,300,300,Igor Fernandes,33,Centro-Oeste,Smartphone,Eletronicos,2200
+78,109,505,2,2025-01-21,1200,2400,Igor Fernandes,33,Centro-Oeste,Mouse,Acessorios,150
+79,109,516,4,2025-06-05,300,1200,Igor Fernandes,33,Centro-Oeste,Cadeira Escritorio,Moveis,650
+80,109,502,4,2025-02-13,500,2000,Igor Fernandes,33,Centro-Oeste,Smartphone,Eletronicos,2200
+81,110,516,5,2025-07-10,150,750,Juliana Gomes,26,Sul,Cadeira Escritorio,Moveis,650
+82,110,518,5,2025-04-27,800,4000,Juliana Gomes,26,Sul,Pen Drive,Acessorios,80
+83,110,502,1,2025-12-23,150,150,Juliana Gomes,26,Sul,Smartphone,Eletronicos,2200
+84,110,509,3,2025-08-27,2200,6600,Juliana Gomes,26,Sul,Mesa,Moveis,700
+85,110,501,3,2025-07-19,2200,6600,Juliana Gomes,26,Sul,Notebook,Eletronicos,3500
+86,111,506,2,2025-02-26,800,1600,Kleber Santos,39,Nordeste,Teclado,Acessorios,450
+87,111,511,2,2025-04-20,150,300,Kleber Santos,39,Nordeste,Webcam,Acessorios,200
+88,111,507,1,2025-07-03,150,150,Kleber Santos,39,Nordeste,Monitor,Eletronicos,1200
+89,111,507,1,2025-04-16,800,800,Kleber Santos,39,Nordeste,Monitor,Eletronicos,1200
+90,111,503,3,2025-05-28,2200,6600,Kleber Santos,39,Nordeste,Cadeira Gamer,Moveis,900
+91,112,518,2,2025-09-26,800,1600,Luciana Freitas,41,Sudeste,Pen Drive,Acessorios,80
+92,112,507,5,2025-05-07,800,4000,Luciana Freitas,41,Sudeste,Monitor,Eletronicos,1200
+93,112,513,1,2025-05-19,1200,1200,Luciana Freitas,41,Sudeste,HD Externo,Eletronicos,500
+94,112,516,5,2025-09-03,2200,11000,Luciana Freitas,41,Sudeste,Cadeira Escritorio,Moveis,650
+95,112,501,5,2025-01-24,3500,17500,Luciana Freitas,41,Sudeste,Notebook,Eletronicos,3500
+96,113,503,1,2025-09-14,1200,1200,Marcos Pereira,36,Sul,Cadeira Gamer,Moveis,900
+97,113,501,5,2025-05-16,300,1500,Marcos Pereira,36,Sul,Notebook,Eletronicos,3500
+98,113,511,1,2025-11-18,2200,2200,Marcos Pereira,36,Sul,Webcam,Acessorios,200
+99,113,515,1,2025-08-25,800,800,Marcos Pereira,36,Sul,Tablet,Eletronicos,1800
+100,113,516,2,2025-07-29,3500,7000,Marcos Pereira,36,Sul,Cadeira Escritorio,Moveis,650
+101,114,506,3,2025-10-02,800,2400,Natalia Barros,24,Centro-Oeste,Teclado,Acessorios,450
+102,114,514,4,2025-08-25,3500,14000,Natalia Barros,24,Centro-Oeste,Roteador,Eletronicos,350
+103,114,502,5,2025-09-20,1200,6000,Natalia Barros,24,Centro-Oeste,Smartphone,Eletronicos,2200
+104,114,510,2,2025-04-22,3500,7000,Natalia Barros,24,Centro-Oeste,Impressora,Eletronicos,800
+105,114,512,5,2025-11-17,300,1500,Natalia Barros,24,Centro-Oeste,SSD,Eletronicos,600
+106,115,501,1,2025-08-14,500,500,Otavio Duarte,50,Nordeste,Notebook,Eletronicos,3500
+107,115,517,5,2025-11-15,1200,6000,Otavio Duarte,50,Nordeste,Suporte Monitor,Acessorios,180
+108,115,507,2,2025-04-01,800,1600,Otavio Duarte,50,Nordeste,Monitor,Eletronicos,1200
+109,115,518,3,2025-04-17,1200,3600,Otavio Duarte,50,Nordeste,Pen Drive,Acessorios,80
+110,115,518,5,2025-03-07,800,4000,Otavio Duarte,50,Nordeste,Pen Drive,Acessorios,80
+111,116,513,4,2025-04-08,2200,8800,Patricia Nunes,34,Sudeste,HD Externo,Eletronicos,500
+112,116,507,4,2025-11-06,3500,14000,Patricia Nunes,34,Sudeste,Monitor,Eletronicos,1200
+113,116,504,3,2025-06-04,150,450,Patricia Nunes,34,Sudeste,TV,Eletronicos,2800
+114,116,519,3,2025-10-25,800,2400,Patricia Nunes,34,Sudeste,Smartwatch,Eletronicos,900
+115,116,518,1,2025-10-04,1200,1200,Patricia Nunes,34,Sudeste,Pen Drive,Acessorios,80
+116,117,517,4,2025-05-14,800,3200,Rafael Teixeira,28,Sul,Suporte Monitor,Acessorios,180
+117,117,509,3,2025-05-29,1200,3600,Rafael Teixeira,28,Sul,Mesa,Moveis,700
+118,117,505,3,2025-10-20,3500,10500,Rafael Teixeira,28,Sul,Mouse,Acessorios,150
+119,117,510,1,2025-09-29,2200,2200,Rafael Teixeira,28,Sul,Impressora,Eletronicos,800
+120,117,512,4,2025-08-05,2200,8800,Rafael Teixeira,28,Sul,SSD,Eletronicos,600
+121,118,520,2,2025-06-09,500,1000,Sandra Melo,37,Centro-Oeste,Caixa de Som,Acessorios,250
+122,118,516,1,2025-12-23,800,800,Sandra Melo,37,Centro-Oeste,Cadeira Escritorio,Moveis,650
+123,118,507,4,2025-12-14,500,2000,Sandra Melo,37,Centro-Oeste,Monitor,Eletronicos,1200
+124,118,519,3,2025-12-27,150,450,Sandra Melo,37,Centro-Oeste,Smartwatch,Eletronicos,900
+125,118,508,2,2025-07-16,2200,4400,Sandra Melo,37,Centro-Oeste,Headset,Acessorios,300
+126,119,512,3,2025-09-01,150,450,Thiago Cardoso,32,Nordeste,SSD,Eletronicos,600
+127,119,509,2,2025-08-16,3500,7000,Thiago Cardoso,32,Nordeste,Mesa,Moveis,700
+128,119,518,1,2025-08-03,800,800,Thiago Cardoso,32,Nordeste,Pen Drive,Acessorios,80
+129,119,507,4,2025-07-17,500,2000,Thiago Cardoso,32,Nordeste,Monitor,Eletronicos,1200
+130,119,514,1,2025-01-29,800,800,Thiago Cardoso,32,Nordeste,Roteador,Eletronicos,350
+131,120,511,3,2025-03-23,150,450,Vanessa Lopes,29,Sudeste,Webcam,Acessorios,200
+132,120,504,4,2025-03-29,3500,14000,Vanessa Lopes,29,Sudeste,TV,Eletronicos,2800
+133,120,505,5,2025-04-10,300,1500,Vanessa Lopes,29,Sudeste,Mouse,Acessorios,150
+134,120,510,1,2025-10-01,2200,2200,Vanessa Lopes,29,Sudeste,Impressora,Eletronicos,800
+135,120,505,5,2025-04-18,300,1500,Vanessa Lopes,29,Sudeste,Mouse,Acessorios,150
+136,121,515,5,2025-10-16,500,2500,Andre Lima,38,Sul,Tablet,Eletronicos,1800
+137,121,513,3,2025-08-04,1200,3600,Andre Lima,38,Sul,HD Externo,Eletronicos,500
+138,121,517,5,2025-03-21,300,1500,Andre Lima,38,Sul,Suporte Monitor,Acessorios,180
+139,121,519,2,2025-10-10,300,600,Andre Lima,38,Sul,Smartwatch,Eletronicos,900
+140,121,512,1,2025-01-03,2200,2200,Andre Lima,38,Sul,SSD,Eletronicos,600
+141,122,517,1,2025-05-10,150,150,Bianca Alves,27,Nordeste,Suporte Monitor,Acessorios,180
+142,122,501,1,2025-06-10,1200,1200,Bianca Alves,27,Nordeste,Notebook,Eletronicos,3500
+143,122,502,4,2025-07-21,1200,4800,Bianca Alves,27,Nordeste,Smartphone,Eletronicos,2200
+144,122,517,1,2025-12-10,800,800,Bianca Alves,27,Nordeste,Suporte Monitor,Acessorios,180
+145,122,518,5,2025-07-01,300,1500,Bianca Alves,27,Nordeste,Pen Drive,Acessorios,80
+146,123,501,2,2025-04-02,1200,2400,Caio Ribeiro,31,Sudeste,Notebook,Eletronicos,3500
+147,123,519,5,2025-12-18,500,2500,Caio Ribeiro,31,Sudeste,Smartwatch,Eletronicos,900
+148,123,501,4,2025-02-14,500,2000,Caio Ribeiro,31,Sudeste,Notebook,Eletronicos,3500
+149,123,506,5,2025-08-10,3500,17500,Caio Ribeiro,31,Sudeste,Teclado,Acessorios,450
+150,123,514,5,2025-07-04,800,4000,Caio Ribeiro,31,Sudeste,Roteador,Eletronicos,350
+151,124,518,2,2025-05-04,800,1600,Debora Santos,40,Centro-Oeste,Pen Drive,Acessorios,80
+152,124,520,3,2025-09-27,1200,3600,Debora Santos,40,Centro-Oeste,Caixa de Som,Acessorios,250
+153,124,513,1,2025-11-04,1200,1200,Debora Santos,40,Centro-Oeste,HD Externo,Eletronicos,500
+154,124,512,2,2025-02-27,2200,4400,Debora Santos,40,Centro-Oeste,SSD,Eletronicos,600
+155,124,502,3,2025-05-13,1200,3600,Debora Santos,40,Centro-Oeste,Smartphone,Eletronicos,2200
+156,125,503,4,2025-01-27,150,600,Erick Gomes,33,Sul,Cadeira Gamer,Moveis,900
+157,125,506,4,2025-06-11,3500,14000,Erick Gomes,33,Sul,Teclado,Acessorios,450
+158,125,505,4,2025-10-04,150,600,Erick Gomes,33,Sul,Mouse,Acessorios,150
+159,125,502,4,2025-10-14,300,1200,Erick Gomes,33,Sul,Smartphone,Eletronicos,2200
+160,125,506,2,2025-03-09,3500,7000,Erick Gomes,33,Sul,Teclado,Acessorios,450
+161,126,511,1,2025-03-27,500,500,Flavia Rocha,36,Sudeste,Webcam,Acessorios,200
+162,126,519,3,2025-04-26,500,1500,Flavia Rocha,36,Sudeste,Smartwatch,Eletronicos,900
+163,126,501,2,2025-06-01,1200,2400,Flavia Rocha,36,Sudeste,Notebook,Eletronicos,3500
+164,126,502,4,2025-02-03,3500,14000,Flavia Rocha,36,Sudeste,Smartphone,Eletronicos,2200
+165,126,516,5,2025-06-06,300,1500,Flavia Rocha,36,Sudeste,Cadeira Escritorio,Moveis,650
+166,127,512,4,2025-01-03,150,600,Gabriel Martins,28,Nordeste,SSD,Eletronicos,600
+167,127,516,5,2025-08-30,500,2500,Gabriel Martins,28,Nordeste,Cadeira Escritorio,Moveis,650
+168,127,509,4,2025-12-19,150,600,Gabriel Martins,28,Nordeste,Mesa,Moveis,700
+169,127,508,3,2025-03-14,2200,6600,Gabriel Martins,28,Nordeste,Headset,Acessorios,300
+170,127,518,4,2025-04-19,1200,4800,Gabriel Martins,28,Nordeste,Pen Drive,Acessorios,80
+171,128,502,2,2025-11-23,3500,7000,Hugo Fernandes,45,Sudeste,Smartphone,Eletronicos,2200
+172,128,503,3,2025-04-16,3500,10500,Hugo Fernandes,45,Sudeste,Cadeira Gamer,Moveis,900
+173,128,520,5,2025-05-04,300,1500,Hugo Fernandes,45,Sudeste,Caixa de Som,Acessorios,250
+174,128,515,1,2025-07-04,3500,3500,Hugo Fernandes,45,Sudeste,Tablet,Eletronicos,1800
+175,128,511,5,2025-10-14,150,750,Hugo Fernandes,45,Sudeste,Webcam,Acessorios,200
+176,129,505,4,2025-06-19,800,3200,Isabela Costa,26,Sul,Mouse,Acessorios,150
+177,129,518,4,2025-03-04,800,3200,Isabela Costa,26,Sul,Pen Drive,Acessorios,80
+178,129,515,2,2025-05-17,3500,7000,Isabela Costa,26,Sul,Tablet,Eletronicos,1800
+179,129,501,4,2025-09-25,2200,8800,Isabela Costa,26,Sul,Notebook,Eletronicos,3500
+180,129,509,3,2025-08-04,1200,3600,Isabela Costa,26,Sul,Mesa,Moveis,700
+181,130,505,3,2025-03-22,1200,3600,Joao Pedro,30,Centro-Oeste,Mouse,Acessorios,150
+182,130,505,2,2025-10-06,800,1600,Joao Pedro,30,Centro-Oeste,Mouse,Acessorios,150
+183,130,513,5,2025-11-28,2200,11000,Joao Pedro,30,Centro-Oeste,HD Externo,Eletronicos,500
+184,130,518,4,2025-05-02,500,2000,Joao Pedro,30,Centro-Oeste,Pen Drive,Acessorios,80
+185,130,504,5,2025-07-02,1200,6000,Joao Pedro,30,Centro-Oeste,TV,Eletronicos,2800
+186,131,519,2,2025-02-03,150,300,Karina Duarte,34,Sudeste,Smartwatch,Eletronicos,900
+187,131,505,3,2025-03-26,300,900,Karina Duarte,34,Sudeste,Mouse,Acessorios,150
+188,131,510,3,2025-04-24,500,1500,Karina Duarte,34,Sudeste,Impressora,Eletronicos,800
+189,131,519,2,2025-04-13,150,300,Karina Duarte,34,Sudeste,Smartwatch,Eletronicos,900
+190,131,506,5,2025-04-09,800,4000,Karina Duarte,34,Sudeste,Teclado,Acessorios,450
+191,132,512,1,2025-04-03,500,500,Lucas Melo,29,Sul,SSD,Eletronicos,600
+192,132,511,2,2025-05-10,500,1000,Lucas Melo,29,Sul,Webcam,Acessorios,200
+193,132,517,3,2025-12-06,3500,10500,Lucas Melo,29,Sul,Suporte Monitor,Acessorios,180
+194,132,520,4,2025-04-07,1200,4800,Lucas Melo,29,Sul,Caixa de Som,Acessorios,250
+195,132,520,5,2025-11-11,2200,11000,Lucas Melo,29,Sul,Caixa de Som,Acessorios,250
+196,133,517,2,2025-08-21,3500,7000,Mariana Freitas,37,Nordeste,Suporte Monitor,Acessorios,180
+197,133,509,5,2025-04-28,3500,17500,Mariana Freitas,37,Nordeste,Mesa,Moveis,700
+198,133,508,5,2025-07-18,800,4000,Mariana Freitas,37,Nordeste,Headset,Acessorios,300
+199,133,505,2,2025-03-30,800,1600,Mariana Freitas,37,Nordeste,Mouse,Acessorios,150
+200,133,501,2,2025-01-09,800,1600,Mariana Freitas,37,Nordeste,Notebook,Eletronicos,3500
+201,134,512,1,2025-11-13,800,800,Nicolas Barros,41,Centro-Oeste,SSD,Eletronicos,600
+202,134,513,3,2025-04-08,1200,3600,Nicolas Barros,41,Centro-Oeste,HD Externo,Eletronicos,500
+203,134,513,4,2025-06-15,500,2000,Nicolas Barros,41,Centro-Oeste,HD Externo,Eletronicos,500
+204,134,509,5,2025-10-12,1200,6000,Nicolas Barros,41,Centro-Oeste,Mesa,Moveis,700
+205,134,507,4,2025-07-27,150,600,Nicolas Barros,41,Centro-Oeste,Monitor,Eletronicos,1200
+206,135,511,1,2025-08-25,500,500,Paulo Henrique,39,Sudeste,Webcam,Acessorios,200
+207,135,504,2,2025-06-27,1200,2400,Paulo Henrique,39,Sudeste,TV,Eletronicos,2800
+208,135,513,5,2025-09-07,1200,6000,Paulo Henrique,39,Sudeste,HD Externo,Eletronicos,500
+209,135,505,3,2025-02-18,800,2400,Paulo Henrique,39,Sudeste,Mouse,Acessorios,150
+210,135,520,4,2025-08-28,300,1200,Paulo Henrique,39,Sudeste,Caixa de Som,Acessorios,250
+211,130,519,3,2025-04-26,500,1500,Joao Pedro,30,Centro-Oeste,Smartwatch,Eletronicos,900
+212,125,504,5,2025-02-17,1200,6000,Erick Gomes,33,Sul,TV,Eletronicos,2800
+213,130,504,2,2025-05-17,1200,2400,Joao Pedro,30,Centro-Oeste,TV,Eletronicos,2800
+214,109,508,2,2025-08-29,500,1000,Igor Fernandes,33,Centro-Oeste,Headset,Acessorios,300
+215,119,505,4,2025-07-10,800,3200,Thiago Cardoso,32,Nordeste,Mouse,Acessorios,150
+216,127,516,5,2025-04-02,500,2500,Gabriel Martins,28,Nordeste,Cadeira Escritorio,Moveis,650
+217,107,517,4,2025-08-27,1200,4800,Gustavo Martins,45,Nordeste,Suporte Monitor,Acessorios,180
+218,123,502,3,2025-05-18,800,2400,Caio Ribeiro,31,Sudeste,Smartphone,Eletronicos,2200
+219,131,518,3,2025-01-08,300,900,Karina Duarte,34,Sudeste,Pen Drive,Acessorios,80
+220,103,502,1,2025-05-24,300,300,Carla Souza,42,Nordeste,Smartphone,Eletronicos,2200
+221,115,508,3,2025-08-03,300,900,Otavio Duarte,50,Nordeste,Headset,Acessorios,300
+222,119,502,1,2025-09-17,1200,1200,Thiago Cardoso,32,Nordeste,Smartphone,Eletronicos,2200
+223,134,508,1,2025-08-16,3500,3500,Nicolas Barros,41,Centro-Oeste,Headset,Acessorios,300
+224,132,517,4,2025-01-31,150,600,Lucas Melo,29,Sul,Suporte Monitor,Acessorios,180
+225,102,516,1,2025-09-30,3500,3500,Bruno Costa,35,Sul,Cadeira Escritorio,Moveis,650
+226,131,502,4,2025-01-25,1200,4800,Karina Duarte,34,Sudeste,Smartphone,Eletronicos,2200
+227,122,507,4,2025-07-11,3500,14000,Bianca Alves,27,Nordeste,Monitor,Eletronicos,1200
+228,107,517,3,2025-02-10,800,2400,Gustavo Martins,45,Nordeste,Suporte Monitor,Acessorios,180
+229,135,511,2,2025-12-15,300,600,Paulo Henrique,39,Sudeste,Webcam,Acessorios,200
+230,104,502,1,2025-07-28,300,300,Daniel Lima,30,Centro-Oeste,Smartphone,Eletronicos,2200
+231,112,501,1,2025-11-26,300,300,Luciana Freitas,41,Sudeste,Notebook,Eletronicos,3500
+232,101,516,2,2025-01-28,3500,7000,Ana Silva,28,Sudeste,Cadeira Escritorio,Moveis,650
+233,130,516,4,2025-07-20,3500,14000,Joao Pedro,30,Centro-Oeste,Cadeira Escritorio,Moveis,650
+234,108,504,1,2025-10-26,2200,2200,Helena Ribeiro,29,Sudeste,TV,Eletronicos,2800
+235,130,517,1,2025-11-12,150,150,Joao Pedro,30,Centro-Oeste,Suporte Monitor,Acessorios,180
+236,113,502,4,2025-10-03,800,3200,Marcos Pereira,36,Sul,Smartphone,Eletronicos,2200
+237,103,513,2,2025-01-22,300,600,Carla Souza,42,Nordeste,HD Externo,Eletronicos,500
+238,108,516,2,2025-12-05,1200,2400,Helena Ribeiro,29,Sudeste,Cadeira Escritorio,Moveis,650
+239,118,513,2,2025-06-11,500,1000,Sandra Melo,37,Centro-Oeste,HD Externo,Eletronicos,500
+240,121,512,1,2025-06-07,150,150,Andre Lima,38,Sul,SSD,Eletronicos,600
+241,118,514,3,2025-09-22,150,450,Sandra Melo,37,Centro-Oeste,Roteador,Eletronicos,350
+242,124,511,3,2025-07-16,800,2400,Debora Santos,40,Centro-Oeste,Webcam,Acessorios,200
+243,129,509,3,2025-06-27,150,450,Isabela Costa,26,Sul,Mesa,Moveis,700
+244,120,502,1,2025-08-21,2200,2200,Vanessa Lopes,29,Sudeste,Smartphone,Eletronicos,2200
+245,113,504,3,2025-12-13,500,1500,Marcos Pereira,36,Sul,TV,Eletronicos,2800
+246,108,514,3,2025-02-17,500,1500,Helena Ribeiro,29,Sudeste,Roteador,Eletronicos,350
+247,134,516,1,2025-04-06,3500,3500,Nicolas Barros,41,Centro-Oeste,Cadeira Escritorio,Moveis,650
+248,125,516,2,2025-01-20,150,300,Erick Gomes,33,Sul,Cadeira Escritorio,Moveis,650
+249,119,510,3,2025-08-11,150,450,Thiago Cardoso,32,Nordeste,Impressora,Eletronicos,800
+250,110,513,4,2025-07-10,500,2000,Juliana Gomes,26,Sul,HD Externo,Eletronicos,500
+251,122,517,3,2025-01-05,300,900,Bianca Alves,27,Nordeste,Suporte Monitor,Acessorios,180
+252,127,520,1,2025-08-03,3500,3500,Gabriel Martins,28,Nordeste,Caixa de Som,Acessorios,250
+253,127,501,1,2025-10-05,1200,1200,Gabriel Martins,28,Nordeste,Notebook,Eletronicos,3500
+254,115,509,2,2025-01-16,300,600,Otavio Duarte,50,Nordeste,Mesa,Moveis,700
+255,117,503,3,2025-11-09,800,2400,Rafael Teixeira,28,Sul,Cadeira Gamer,Moveis,900
+256,125,515,5,2025-05-08,300,1500,Erick Gomes,33,Sul,Tablet,Eletronicos,1800
+257,109,511,2,2025-07-26,2200,4400,Igor Fernandes,33,Centro-Oeste,Webcam,Acessorios,200
+258,117,511,3,2025-03-11,300,900,Rafael Teixeira,28,Sul,Webcam,Acessorios,200
+259,122,510,5,2025-09-03,150,750,Bianca Alves,27,Nordeste,Impressora,Eletronicos,800
+260,103,503,3,2025-09-06,300,900,Carla Souza,42,Nordeste,Cadeira Gamer,Moveis,900
+261,126,520,1,2025-04-10,2200,2200,Flavia Rocha,36,Sudeste,Caixa de Som,Acessorios,250
+262,120,502,3,2025-10-29,1200,3600,Vanessa Lopes,29,Sudeste,Smartphone,Eletronicos,2200
+263,125,520,4,2025-04-15,150,600,Erick Gomes,33,Sul,Caixa de Som,Acessorios,250
+264,102,508,4,2025-05-17,500,2000,Bruno Costa,35,Sul,Headset,Acessorios,300
+265,123,505,4,2025-05-01,3500,14000,Caio Ribeiro,31,Sudeste,Mouse,Acessorios,150
+266,123,506,2,2025-12-20,1200,2400,Caio Ribeiro,31,Sudeste,Teclado,Acessorios,450
+267,125,501,5,2025-07-10,500,2500,Erick Gomes,33,Sul,Notebook,Eletronicos,3500
+268,107,510,3,2025-07-11,1200,3600,Gustavo Martins,45,Nordeste,Impressora,Eletronicos,800
+269,129,502,1,2025-04-19,800,800,Isabela Costa,26,Sul,Smartphone,Eletronicos,2200
+270,117,512,1,2025-06-20,150,150,Rafael Teixeira,28,Sul,SSD,Eletronicos,600
+271,115,509,1,2025-06-29,2200,2200,Otavio Duarte,50,Nordeste,Mesa,Moveis,700
+272,107,506,3,2025-04-10,300,900,Gustavo Martins,45,Nordeste,Teclado,Acessorios,450
+273,124,509,2,2025-03-04,500,1000,Debora Santos,40,Centro-Oeste,Mesa,Moveis,700
+274,125,502,2,2025-12-10,300,600,Erick Gomes,33,Sul,Smartphone,Eletronicos,2200
+275,132,507,3,2025-04-03,800,2400,Lucas Melo,29,Sul,Monitor,Eletronicos,1200
+276,110,503,3,2025-03-17,1200,3600,Juliana Gomes,26,Sul,Cadeira Gamer,Moveis,900
+277,131,507,4,2025-11-20,500,2000,Karina Duarte,34,Sudeste,Monitor,Eletronicos,1200
+278,129,501,2,2025-07-13,300,600,Isabela Costa,26,Sul,Notebook,Eletronicos,3500
+279,130,520,4,2025-05-07,500,2000,Joao Pedro,30,Centro-Oeste,Caixa de Som,Acessorios,250
+280,122,518,1,2025-08-10,2200,2200,Bianca Alves,27,Nordeste,Pen Drive,Acessorios,80
+281,101,519,3,2025-03-13,1200,3600,Ana Silva,28,Sudeste,Smartwatch,Eletronicos,900
+282,114,504,4,2025-06-21,800,3200,Natalia Barros,24,Centro-Oeste,TV,Eletronicos,2800
+283,119,518,4,2025-04-27,800,3200,Thiago Cardoso,32,Nordeste,Pen Drive,Acessorios,80
+284,106,505,4,2025-07-03,800,3200,Fernanda Rocha,31,Sul,Mouse,Acessorios,150
+285,131,511,2,2025-07-03,3500,7000,Karina Duarte,34,Sudeste,Webcam,Acessorios,200
+286,107,514,3,2025-02-15,300,900,Gustavo Martins,45,Nordeste,Roteador,Eletronicos,350
+287,118,504,1,2025-09-18,150,150,Sandra Melo,37,Centro-Oeste,TV,Eletronicos,2800
+288,113,504,4,2025-03-21,150,600,Marcos Pereira,36,Sul,TV,Eletronicos,2800
+289,111,517,3,2025-03-04,1200,3600,Kleber Santos,39,Nordeste,Suporte Monitor,Acessorios,180
+290,116,514,5,2025-02-22,800,4000,Patricia Nunes,34,Sudeste,Roteador,Eletronicos,350
+291,128,517,1,2025-09-25,500,500,Hugo Fernandes,45,Sudeste,Suporte Monitor,Acessorios,180
+292,125,508,1,2025-07-09,500,500,Erick Gomes,33,Sul,Headset,Acessorios,300
+293,107,513,1,2025-07-31,3500,3500,Gustavo Martins,45,Nordeste,HD Externo,Eletronicos,500
+294,118,509,3,2025-05-02,3500,10500,Sandra Melo,37,Centro-Oeste,Mesa,Moveis,700
+295,129,501,4,2025-06-21,300,1200,Isabela Costa,26,Sul,Notebook,Eletronicos,3500
+296,120,514,4,2025-04-13,2200,8800,Vanessa Lopes,29,Sudeste,Roteador,Eletronicos,350
+297,127,503,4,2025-02-05,500,2000,Gabriel Martins,28,Nordeste,Cadeira Gamer,Moveis,900
+298,107,512,2,2025-05-04,500,1000,Gustavo Martins,45,Nordeste,SSD,Eletronicos,600
+299,122,517,1,2025-12-01,2200,2200,Bianca Alves,27,Nordeste,Suporte Monitor,Acessorios,180
+300,120,519,4,2025-02-07,800,3200,Vanessa Lopes,29,Sudeste,Smartwatch,Eletronicos,900
+301,122,503,2,2025-10-23,150,300,Bianca Alves,27,Nordeste,Cadeira Gamer,Moveis,900
+302,115,501,4,2025-05-21,3500,14000,Otavio Duarte,50,Nordeste,Notebook,Eletronicos,3500
+303,110,503,3,2025-08-25,150,450,Juliana Gomes,26,Sul,Cadeira Gamer,Moveis,900
+304,128,519,2,2025-10-15,800,1600,Hugo Fernandes,45,Sudeste,Smartwatch,Eletronicos,900
+305,129,513,5,2025-08-27,1200,6000,Isabela Costa,26,Sul,HD Externo,Eletronicos,500
+306,101,512,3,2025-10-26,1200,3600,Ana Silva,28,Sudeste,SSD,Eletronicos,600
+307,114,520,4,2025-06-30,1200,4800,Natalia Barros,24,Centro-Oeste,Caixa de Som,Acessorios,250
+308,135,502,4,2025-08-11,300,1200,Paulo Henrique,39,Sudeste,Smartphone,Eletronicos,2200
+309,117,502,5,2025-09-09,300,1500,Rafael Teixeira,28,Sul,Smartphone,Eletronicos,2200
+310,105,520,3,2025-07-31,2200,6600,Eduardo Alves,27,Sudeste,Caixa de Som,Acessorios,250
+311,121,509,1,2025-07-03,150,150,Andre Lima,38,Sul,Mesa,Moveis,700
+312,122,517,2,2025-09-18,2200,4400,Bianca Alves,27,Nordeste,Suporte Monitor,Acessorios,180
+313,135,507,1,2025-08-26,800,800,Paulo Henrique,39,Sudeste,Monitor,Eletronicos,1200
+314,115,509,5,2025-06-02,500,2500,Otavio Duarte,50,Nordeste,Mesa,Moveis,700
+315,101,518,1,2025-04-25,800,800,Ana Silva,28,Sudeste,Pen Drive,Acessorios,80
+316,133,520,4,2025-01-23,800,3200,Mariana Freitas,37,Nordeste,Caixa de Som,Acessorios,250
+317,134,517,4,2025-01-05,800,3200,Nicolas Barros,41,Centro-Oeste,Suporte Monitor,Acessorios,180
+318,132,505,2,2025-06-04,3500,7000,Lucas Melo,29,Sul,Mouse,Acessorios,150
+319,121,520,4,2025-09-09,500,2000,Andre Lima,38,Sul,Caixa de Som,Acessorios,250
+320,124,516,3,2025-03-07,500,1500,Debora Santos,40,Centro-Oeste,Cadeira Escritorio,Moveis,650
+321,135,513,3,2025-10-28,3500,10500,Paulo Henrique,39,Sudeste,HD Externo,Eletronicos,500
+322,103,520,1,2025-10-01,150,150,Carla Souza,42,Nordeste,Caixa de Som,Acessorios,250
+323,118,503,1,2025-10-30,3500,3500,Sandra Melo,37,Centro-Oeste,Cadeira Gamer,Moveis,900
+324,116,520,3,2025-11-12,2200,6600,Patricia Nunes,34,Sudeste,Caixa de Som,Acessorios,250
+325,108,513,3,2025-03-26,800,2400,Helena Ribeiro,29,Sudeste,HD Externo,Eletronicos,500
+326,124,519,5,2025-12-28,1200,6000,Debora Santos,40,Centro-Oeste,Smartwatch,Eletronicos,900
+327,112,508,4,2025-04-09,1200,4800,Luciana Freitas,41,Sudeste,Headset,Acessorios,300
+328,128,509,4,2025-04-20,300,1200,Hugo Fernandes,45,Sudeste,Mesa,Moveis,700
+329,123,502,3,2025-01-22,800,2400,Caio Ribeiro,31,Sudeste,Smartphone,Eletronicos,2200
+330,104,503,3,2025-08-21,800,2400,Daniel Lima,30,Centro-Oeste,Cadeira Gamer,Moveis,900
+331,125,502,3,2025-11-30,3500,10500,Erick Gomes,33,Sul,Smartphone,Eletronicos,2200
+332,124,501,2,2025-12-10,150,300,Debora Santos,40,Centro-Oeste,Notebook,Eletronicos,3500
+333,121,513,1,2025-02-07,800,800,Andre Lima,38,Sul,HD Externo,Eletronicos,500
+334,116,514,2,2025-01-30,2200,4400,Patricia Nunes,34,Sudeste,Roteador,Eletronicos,350
+335,130,509,5,2025-11-15,2200,11000,Joao Pedro,30,Centro-Oeste,Mesa,Moveis,700
+336,120,506,4,2025-08-06,2200,8800,Vanessa Lopes,29,Sudeste,Teclado,Acessorios,450
+337,135,518,1,2025-03-24,300,300,Paulo Henrique,39,Sudeste,Pen Drive,Acessorios,80
+338,127,520,5,2025-07-15,2200,11000,Gabriel Martins,28,Nordeste,Caixa de Som,Acessorios,250
+339,122,503,3,2025-04-07,500,1500,Bianca Alves,27,Nordeste,Cadeira Gamer,Moveis,900
+340,134,518,5,2025-02-12,2200,11000,Nicolas Barros,41,Centro-Oeste,Pen Drive,Acessorios,80
+341,127,520,5,2025-11-09,150,750,Gabriel Martins,28,Nordeste,Caixa de Som,Acessorios,250
+342,108,508,1,2025-08-18,300,300,Helena Ribeiro,29,Sudeste,Headset,Acessorios,300
+343,124,518,2,2025-02-22,800,1600,Debora Santos,40,Centro-Oeste,Pen Drive,Acessorios,80
+344,117,501,5,2025-12-10,300,1500,Rafael Teixeira,28,Sul,Notebook,Eletronicos,3500
+345,107,506,2,2025-11-28,1200,2400,Gustavo Martins,45,Nordeste,Teclado,Acessorios,450
+346,106,514,1,2025-12-31,3500,3500,Fernanda Rocha,31,Sul,Roteador,Eletronicos,350
+347,125,518,3,2025-11-22,150,450,Erick Gomes,33,Sul,Pen Drive,Acessorios,80
+348,132,512,2,2025-02-08,1200,2400,Lucas Melo,29,Sul,SSD,Eletronicos,600
+349,110,509,4,2025-08-19,800,3200,Juliana Gomes,26,Sul,Mesa,Moveis,700
+350,132,504,1,2025-02-01,150,150,Lucas Melo,29,Sul,TV,Eletronicos,2800
+351,117,520,1,2025-11-30,150,150,Rafael Teixeira,28,Sul,Caixa de Som,Acessorios,250
+352,123,504,2,2025-07-27,150,300,Caio Ribeiro,31,Sudeste,TV,Eletronicos,2800
+353,123,515,3,2025-02-01,2200,6600,Caio Ribeiro,31,Sudeste,Tablet,Eletronicos,1800
+354,122,505,1,2025-12-07,3500,3500,Bianca Alves,27,Nordeste,Mouse,Acessorios,150
+355,128,503,1,2025-12-05,500,500,Hugo Fernandes,45,Sudeste,Cadeira Gamer,Moveis,900
+356,113,517,1,2025-01-07,500,500,Marcos Pereira,36,Sul,Suporte Monitor,Acessorios,180
+357,120,513,1,2025-07-26,3500,3500,Vanessa Lopes,29,Sudeste,HD Externo,Eletronicos,500
+358,103,506,2,2025-07-24,3500,7000,Carla Souza,42,Nordeste,Teclado,Acessorios,450
+359,124,502,1,2025-11-27,300,300,Debora Santos,40,Centro-Oeste,Smartphone,Eletronicos,2200
+360,117,505,5,2025-12-04,500,2500,Rafael Teixeira,28,Sul,Mouse,Acessorios,150
+361,132,519,2,2025-01-02,150,300,Lucas Melo,29,Sul,Smartwatch,Eletronicos,900
+362,111,509,1,2025-02-11,300,300,Kleber Santos,39,Nordeste,Mesa,Moveis,700
+363,105,517,5,2025-12-28,800,4000,Eduardo Alves,27,Sudeste,Suporte Monitor,Acessorios,180
+364,124,518,5,2025-08-07,150,750,Debora Santos,40,Centro-Oeste,Pen Drive,Acessorios,80
+365,135,517,5,2025-08-05,1200,6000,Paulo Henrique,39,Sudeste,Suporte Monitor,Acessorios,180
+366,133,518,5,2025-01-13,800,4000,Mariana Freitas,37,Nordeste,Pen Drive,Acessorios,80
+367,108,513,2,2025-03-06,2200,4400,Helena Ribeiro,29,Sudeste,HD Externo,Eletronicos,500
+368,107,504,5,2025-06-21,1200,6000,Gustavo Martins,45,Nordeste,TV,Eletronicos,2800
+369,130,510,3,2025-10-31,3500,10500,Joao Pedro,30,Centro-Oeste,Impressora,Eletronicos,800
+370,120,515,5,2025-08-21,2200,11000,Vanessa Lopes,29,Sudeste,Tablet,Eletronicos,1800
+371,104,509,2,2025-09-08,800,1600,Daniel Lima,30,Centro-Oeste,Mesa,Moveis,700
+372,115,503,3,2025-07-17,500,1500,Otavio Duarte,50,Nordeste,Cadeira Gamer,Moveis,900
+373,114,509,3,2025-02-02,1200,3600,Natalia Barros,24,Centro-Oeste,Mesa,Moveis,700
+374,114,511,5,2025-11-05,1200,6000,Natalia Barros,24,Centro-Oeste,Webcam,Acessorios,200
+375,119,515,1,2025-05-12,2200,2200,Thiago Cardoso,32,Nordeste,Tablet,Eletronicos,1800
+376,104,512,1,2025-04-09,800,800,Daniel Lima,30,Centro-Oeste,SSD,Eletronicos,600
+377,114,512,2,2025-06-11,300,600,Natalia Barros,24,Centro-Oeste,SSD,Eletronicos,600
+378,111,505,4,2025-10-13,1200,4800,Kleber Santos,39,Nordeste,Mouse,Acessorios,150
+379,112,518,3,2025-08-25,2200,6600,Luciana Freitas,41,Sudeste,Pen Drive,Acessorios,80
+380,106,515,4,2025-09-26,800,3200,Fernanda Rocha,31,Sul,Tablet,Eletronicos,1800
+381,102,505,5,2025-06-22,800,4000,Bruno Costa,35,Sul,Mouse,Acessorios,150
+382,123,515,3,2025-10-08,1200,3600,Caio Ribeiro,31,Sudeste,Tablet,Eletronicos,1800
+383,101,505,2,2025-04-20,2200,4400,Ana Silva,28,Sudeste,Mouse,Acessorios,150
+384,108,514,4,2025-11-24,3500,14000,Helena Ribeiro,29,Sudeste,Roteador,Eletronicos,350
+385,133,506,1,2025-07-28,3500,3500,Mariana Freitas,37,Nordeste,Teclado,Acessorios,450
+386,135,513,4,2025-02-14,1200,4800,Paulo Henrique,39,Sudeste,HD Externo,Eletronicos,500
+387,123,515,2,2025-09-09,1200,2400,Caio Ribeiro,31,Sudeste,Tablet,Eletronicos,1800
+388,113,515,3,2025-06-06,800,2400,Marcos Pereira,36,Sul,Tablet,Eletronicos,1800
+389,108,505,3,2025-03-01,800,2400,Helena Ribeiro,29,Sudeste,Mouse,Acessorios,150
+390,111,506,4,2025-12-01,800,3200,Kleber Santos,39,Nordeste,Teclado,Acessorios,450
+391,135,510,3,2025-07-15,500,1500,Paulo Henrique,39,Sudeste,Impressora,Eletronicos,800
+392,120,507,3,2025-03-19,3500,10500,Vanessa Lopes,29,Sudeste,Monitor,Eletronicos,1200
+393,107,512,1,2025-09-17,3500,3500,Gustavo Martins,45,Nordeste,SSD,Eletronicos,600
+394,127,518,5,2025-08-08,500,2500,Gabriel Martins,28,Nordeste,Pen Drive,Acessorios,80
+395,116,506,1,2025-09-22,800,800,Patricia Nunes,34,Sudeste,Teclado,Acessorios,450
+396,113,505,3,2025-06-10,300,900,Marcos Pereira,36,Sul,Mouse,Acessorios,150
+397,135,509,3,2025-11-02,150,450,Paulo Henrique,39,Sudeste,Mesa,Moveis,700
+398,106,510,3,2025-08-21,2200,6600,Fernanda Rocha,31,Sul,Impressora,Eletronicos,800
+399,116,518,4,2025-07-02,2200,8800,Patricia Nunes,34,Sudeste,Pen Drive,Acessorios,80
+400,118,507,1,2025-11-18,2200,2200,Sandra Melo,37,Centro-Oeste,Monitor,Eletronicos,1200
